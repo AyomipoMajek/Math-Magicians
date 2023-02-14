@@ -58,7 +58,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-**[Math Magicians: setup]** is a solo project where i setup the react app
+**[Math magicians: components]** is a solo project where i setup the calculator app
 
 ## 🛠 Built With <a name="VS Code"></a>
 
