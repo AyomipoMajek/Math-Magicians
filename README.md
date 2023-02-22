@@ -58,7 +58,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-**[Math magicians: components]** is a solo project where i setup the calculator app
+**[Math magicians: full website]** is a solo project where i setup a calculator website
 
 ## 🛠 Built With <a name="VS Code"></a>
 
