@@ -1,8 +1,13 @@
+import '../styles/Home.css';
+
 const Home = () => (
   <>
     <div className="homeContainer">
-      <h1>Welcome to our page!</h1>
+      <h1 className="welcome">Welcome to our page!</h1>
       <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Nunc sed faucibus urna. Sed tincidunt urna vel massa scelerisque
+        interdum. Fusce ultrices elementum consequat. facilisis,
         Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         Nunc sed faucibus urna. Sed tincidunt urna vel massa scelerisque
         interdum. Fusce ultrices elementum consequat. facilisis,
