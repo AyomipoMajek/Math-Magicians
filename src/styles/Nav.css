@@ -1,6 +1,7 @@
 .mainMenu {
   display: flex;
   flex-direction: row;
+  backdrop-filter: blur(200px);
 }
 
 .theHeading {
