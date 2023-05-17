@@ -1,9 +1,9 @@
 .mainQuote {
   display: flex;
-  margin-top: 20rem;
-  margin-left: 20px;
-  margin-right: 20px;
-  padding: 6rem;
+  margin-top: 8rem;
+  margin-left: 40px;
+  margin-right: 40px;
+  padding: 4rem;
   font-size: 25px;
   border-radius: 30px;
   box-shadow: 0 0 10px 0;
