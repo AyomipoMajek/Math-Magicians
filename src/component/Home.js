@@ -88,7 +88,7 @@ const Home = () => {
                   onClick={handlePreviousQuestion}
                   disabled={currentQuestion === 0}
                 >
-                  Previous Question
+                  Previous
                 </button>
                 <button
                   className="nextButton"
@@ -96,7 +96,7 @@ const Home = () => {
                   onClick={currentQuestion === questions.length - 1
                     ? handleFinishQuiz : handleNextQuestion}
                 >
-                  {currentQuestion === questions.length - 1 ? 'Finish Quiz' : 'Next Question'}
+                  {currentQuestion === questions.length - 1 ? 'Finish Quiz' : 'Next'}
                 </button>
               </div>
             </div>
