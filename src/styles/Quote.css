@@ -1,12 +1,25 @@
 .mainQuote {
   display: flex;
-  margin-top: 8rem;
-  margin-left: 40px;
-  margin-right: 40px;
-  padding: 4rem;
-  font-size: 25px;
+  margin: 8rem 1rem;
+  padding: 1rem;
+  font-size: 20px;
   border-radius: 30px;
   box-shadow: 0 0 10px 0;
   backdrop-filter: blur(10px);
   justify-content: center;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  .mainQuote {
+    margin: 15rem 3rem;
+    font-size: 25px;
+  }
+}
+
+@media screen and (min-width: 1025px) {
+  .mainQuote {
+    margin: 20rem 5rem;
+    font-size: 30px;
+    padding: 2rem;
+  }
 }
