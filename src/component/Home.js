@@ -4,7 +4,7 @@ import '../styles/Home.css';
 const Home = () => {
   const questions = [
     {
-      question: 'Sarah has 5 apples. She gives 2 apples to her friend. How many apples does Sarah have now?',
+      question: 'Shekinah has 5 apples. She gives 2 apples to her friend. How many apples does Sarah have now?',
       options: ['1', '2', '3', '5'],
       answer: '3',
     },
